@@ -67,7 +67,8 @@
                     android:inputType="textEmailAddress"
                     android:maxLines="1"
                     android:drawableLeft="@drawable/email_icon"
-                    android:drawableStart="@drawable/email_icon"/>
+                    android:drawableStart="@drawable/email_icon"
+                    android:drawablePadding="6dp"/>
 
             </android.support.design.widget.TextInputLayout>
 
@@ -94,7 +95,8 @@
                     android:maxLength="8"
                     android:maxLines="1"
                     android:drawableLeft="@drawable/password_icon"
-                    android:drawableStart="@drawable/password_icon"/>
+                    android:drawableStart="@drawable/password_icon"
+                    android:drawablePadding="6dp"/>
             </android.support.design.widget.TextInputLayout>
 
 
